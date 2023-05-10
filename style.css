@@ -1,0 +1,33 @@
+body
+{
+  background-color:rosybrown;
+  color:orange;
+}
+
+.heading
+{
+   width: 70%;
+   font-size:30px; 
+}
+
+.objects
+{
+  color:violet;  
+}
+
+#camera
+{
+   border:9px dotted pink;
+   width: 49%;
+   height: 45%;
+}
+
+#result-object-name
+{
+  color:orangered ;
+}
+
+#result-object-accuracy
+{
+   color:yellow; 
+}
